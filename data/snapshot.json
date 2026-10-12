@@ -1,13 +1,13 @@
 {
- "pulledAt": "2026-10-09T12:59:56-04:00",
- "pilot": "Step 8 PILOT (V3 pipeline)",
+ "pulledAt": "2026-10-12T18:38:17-04:00",
+ "pilot": "Step 6 (V4 pipeline)",
  "source": {
   "spreadsheetId": "1PlghXIbJF_G8mIc8gGlHJGbriPBcv2rFqa1VbsmUwyE",
   "tabs": [
-   "Grocery Store Catalogues!A1:G21",
-   "Food Company Details!A1:AB12",
-   "Product Level Details!A1:D21",
-   "Food Company Interpreted Details!A1:G12",
+   "Grocery Store Catalogues!A1:G24",
+   "Food Company Details!A1:AZ15",
+   "Product Level Details!A1:D24",
+   "Food Company Interpreted Details!A1:G15",
    "Nisa Food Categories"
   ]
  },
@@ -50,10 +50,10 @@
  },
  "communityHealthScoreSeed": 20261009,
  "counts": {
-  "companies": 11,
-  "companyPages": 11,
-  "products": 20,
-  "brands": 11
+  "companies": 14,
+  "companyPages": 14,
+  "products": 23,
+  "brands": 14
  },
  "stores": [
   "Healthy Planet"
@@ -75,6 +75,7 @@
   "Condiments, Sauces & Dressings"
  ],
  "productCategoriesNotInList": [],
+ "specSource": "Instructions V4 doc 1rjCTVW3Bb31VQD3LPX6POexMLJXvZepiguMFtI0TMx0 tab t.3ovvlrgz0oy2, Step 6",
  "companies": [
   {
    "name": "OG Ghee",
@@ -416,6 +417,99 @@
    "hasPage": true,
    "pageReason": "passes: Website, Type, Company Ownership present; any-of present: aboutUsPage, location, companyMission, companyKeyQuote",
    "communityHealthScore": 84
+  },
+  {
+   "name": "Lundberg",
+   "website": "https://www.lundberg.com/",
+   "aboutUsPage": "Yes",
+   "companyLogo": "https://www.lundberg.com/cdn/shop/files/Lundberg-Family-Farms_168x.png?v=1613754258",
+   "representativeImage": "https://www.lundberg.com/cdn/shop/files/img_lundberg-about-us_intro-1.webp?v=7838896865280432687",
+   "location": "5311 Midway, Richvale, CA 95974",
+   "certifications": "Non GMO Project",
+   "certificationSource": "Non GMO Project: Certification Body Directory",
+   "yearEstablished": "1937",
+   "foundingStory": "Back in ‘37, Grandpa Albert and Grandma Frances traded Nebraska and the Dust Bowl for Northern California and irrigation (a real game-changer). Their motto? “Leave the land better than you found it.” We’re still following in their footsteps. Grandpa Albert and Grandma Frances left Nebraska in the wake of the Dust Bowl with their four young sons (Eldon, Wendell, Harlan, and Homer), a flatbed Chevy truck, a Farmall tractor, and a new philosophy: “Leave the land better than you found it.”",
+   "companyMission": "Times change, but our purpose stays the same: We exist to grow the highest quality rice using organic and regenerative farming practices because the health of our bodies and our planet depend on it.",
+   "companyKeyQuote": "We’ve always aspired to leave the land better than we found it because we believe the health of our bodies AND our planet depend on it.",
+   "farmingPractices": "The farm employs cover cropping, The farm doesn’t use synthetic inputs (synthetic fertilizer, herbicides, fungicides, pesticides), The farm reuses organic matter like dead plant matter and/or animal manure instead of relying on synthetic fertilizer, The farm provides a home and habitat for not only farm animals but also pollinators, predator insects, earthworms, and all of the microbiology that drive ecosystem function",
+   "productQualityProcess": "No artificial ingredients, Non-GMO, Vegan, All-natural ingredients",
+   "companyOwnership": "Family-owned",
+   "parentCompany": "Lundberg",
+   "ownerName": "Lundberg family",
+   "founderNames": "Albert Lundberg, Frances",
+   "typeOfFoodCompany": "Farm",
+   "regenerativeFarmingPractices": "Yes",
+   "independentlyOwned": "Yes",
+   "ontarioBased": "No",
+   "nisaStarRating": "missing necessary food company details",
+   "certifiedProductionPractices": "The product is free from any significant ingredient (contributes >0.5% of product weight) or processing aid that has been genetically modified by the use of any biotechnology.",
+   "regenerativeExplanation": "This farm strives towards elevating its ecosystem to a healthier state and imitating the natural ecosystem it belongs to. It demonstrates a commitment to the principles of soil health and diversity of plants and wildlife through these practices: The farm employs cover cropping, The farm doesn’t use synthetic inputs (synthetic fertilizer, herbicides, fungicides, pesticides), The farm reuses organic matter like dead plant matter and/or animal manure instead of relying on synthetic fertilizer, The farm provides a home and habitat for not only farm animals but also pollinators, predator insects, earthworms, and all of the microbiology that drive ecosystem function",
+   "slug": "lundberg",
+   "hasPage": true,
+   "pageReason": "passes: Website, Type, Company Ownership present; any-of present: aboutUsPage, location, foundingStory, companyMission, companyKeyQuote",
+   "communityHealthScore": 79
+  },
+  {
+   "name": "Three Farmers",
+   "website": "https://threefarmers.ca/",
+   "aboutUsPage": "Yes",
+   "companyLogo": "https://threefarmers.ca/cdn/shop/files/logo_1000x1000.webp?v=1765177241",
+   "representativeImage": "https://threefarmers.ca/cdn/shop/files/about-banner.jpg?v=1765272467",
+   "location": "100-761 66th Street E, Saskatoon, SK S7P 0E4, Canada",
+   "certifications": "Non GMO Project",
+   "certificationSource": "Non GMO Project: Certification Body Directory",
+   "yearEstablished": "",
+   "foundingStory": "It all started one late night in a Canadian, small town curling rink. A few hours of farmer talk, one whiskey too many, and a dream to take our Canadian grown products to market took root. Of course, we had no idea what we were getting into. How hard could it be?! We had a love for Canadian land, a love for wholesome Canadian food and the passion to share our Canadian farmer roots with the rest of the world.",
+   "companyMission": "Three Farmers believes that everyone should have wholesome food to eat, with an understanding of where it comes from and how it’s made. We are real farmers committed to preserving the land through sustainable growing practices and providing nourishing foods grown on family farms.",
+   "companyKeyQuote": "We are a real deal family business with THREE FARMERS and TWO SISTERS at the heart.",
+   "farmingPractices": "The farm does not till, The farm plants diverse mixes of crops rather than monocultures, The farm thoughtfully pairs crops",
+   "productQualityProcess": "Locally sourced ingredients, Non-GMO, Vegan, All-natural ingredients",
+   "companyOwnership": "Family-owned",
+   "parentCompany": "Three Farmers",
+   "ownerName": "Natasha Vandenhurk, Elysia Vandenhurk",
+   "founderNames": "Elysia Vandenhurk, Natasha Vandenhurk, Dan Vandenhurk, Colin Rosengren, Ron Emde",
+   "typeOfFoodCompany": "Farm",
+   "regenerativeFarmingPractices": "No",
+   "independentlyOwned": "Yes",
+   "ontarioBased": "No",
+   "nisaStarRating": "missing necessary food company details",
+   "certifiedProductionPractices": "The product is free from any significant ingredient (contributes >0.5% of product weight) or processing aid that has been genetically modified by the use of any biotechnology.",
+   "regenerativeExplanation": "The farming practices found are all under soil health: The farm does not till, The farm plants diverse mixes of crops rather than monocultures, The farm thoughtfully pairs crops. No practices were found under diversity of plants and wildlife, so the farm doesn’t show evidence of both principles required to be considered regenerative.",
+   "slug": "three-farmers",
+   "hasPage": true,
+   "pageReason": "passes: Website, Type, Company Ownership present; any-of present: aboutUsPage, location, foundingStory, companyMission, companyKeyQuote",
+   "communityHealthScore": 100
+  },
+  {
+   "name": "Manuka Health",
+   "website": "https://manukahealth.com/",
+   "aboutUsPage": "Yes",
+   "companyLogo": "https://us.manukahealth.com/cdn/shop/files/logo-footer.svg?v=1759756900",
+   "representativeImage": "https://us.manukahealth.com/cdn/shop/files/Brian_web_image.webp?v=1761050506",
+   "location": "Te Awamutu, New Zealand",
+   "certifications": "Non GMO Project",
+   "certificationSource": "Non GMO Project: Certification Body Directory",
+   "yearEstablished": "2006",
+   "foundingStory": "Almost 200 years after the European honeybee met the miraculous mānuka tree, Mānuka Health was born. From its humble 2006 beginnings in small-town New Zealand, Mānuka Health has evolved into a global leader in mānuka honey. A collective of 200 humans, working in holistic harmony with 1.5 billion bees.",
+   "companyMission": "The collective wellbeing of our environment and planet is our priority. We pave the way in responsible and sustainable harvesting and beekeeping. Protecting our mānuka trees and honeybees, so they can thrive and flourish forevermore.",
+   "companyKeyQuote": "We are guardians of nature’s greatest love story, and custodians of its three precious gifts; mānuka honey, propolis and royal jelly.",
+   "farmingPractices": "",
+   "productQualityProcess": "Non-GMO",
+   "companyOwnership": "Corporation",
+   "parentCompany": "Manuka Health",
+   "ownerName": "Manuka Health New Zealand Limited",
+   "founderNames": "",
+   "typeOfFoodCompany": "Food processor",
+   "regenerativeFarmingPractices": "",
+   "independentlyOwned": "No",
+   "ontarioBased": "No",
+   "nisaStarRating": "missing necessary food company details",
+   "certifiedProductionPractices": "The product is free from any significant ingredient (contributes >0.5% of product weight) or processing aid that has been genetically modified by the use of any biotechnology.",
+   "regenerativeExplanation": "",
+   "slug": "manuka-health",
+   "hasPage": true,
+   "pageReason": "passes: Website, Type, Company Ownership present; any-of present: aboutUsPage, location, foundingStory, companyMission, companyKeyQuote",
+   "communityHealthScore": 64
   }
  ],
  "products": [
@@ -658,6 +752,42 @@
    "productDetails": "",
    "companyName": "Ivanhoe",
    "companySlug": "ivanhoe"
+  },
+  {
+   "store": "Healthy Planet",
+   "groceryCategory": "Flour, Meals and Grains",
+   "nisaFoodCategory": "Pantry Staples & Cooking Ingredients",
+   "name": "Lundberg Organic Basmati Rice California White 907g - Gluten Free, Non-GMO",
+   "sku": "A0009987-002",
+   "brand": "Lundberg",
+   "website": "https://www.lundberg.com/",
+   "productDetails": "",
+   "companyName": "Lundberg",
+   "companySlug": "lundberg"
+  },
+  {
+   "store": "Healthy Planet",
+   "groceryCategory": "Lentils",
+   "nisaFoodCategory": "Snacks (savory & sweet)",
+   "name": "Three Farmers Lentil Snack Crunchy Barbecue 140g - Gluten Free, Non-GMO",
+   "sku": "A0071278",
+   "brand": "Three Farmers",
+   "website": "https://threefarmers.ca/",
+   "productDetails": "",
+   "companyName": "Three Farmers",
+   "companySlug": "three-farmers"
+  },
+  {
+   "store": "Healthy Planet",
+   "groceryCategory": "Honey",
+   "nisaFoodCategory": "Pantry Staples & Cooking Ingredients",
+   "name": "Manuka Health Manuka Honey MGO263+ 250g - Non-GMO and Raw",
+   "sku": "A0006243-007",
+   "brand": "Manuka Health",
+   "website": "https://manukahealth.com/",
+   "productDetails": "",
+   "companyName": "Manuka Health",
+   "companySlug": "manuka-health"
   }
  ]
 }
